@@ -1,14 +1,14 @@
 
 # Min Stack
 
-> Implementação de uma pilha de inteiros onde cada uma das operações disponibilizada é executada em O(1)
+> Implementação de uma pilha de inteiros onde cada uma das operações disponibilizada é executada em O(1).
 
 
 ### Operações disponíveis
 
-- push: places new value on top of the stack
-- pop: takes the value on top of the stack
-- min: returns the minimum value in the whole stack
+- push: adiciona novo valor ao topo da pilha;
+- pop: remove e retorna o valor no topo da pilha;
+- min: retorna o menor valor presente na pilha.
 
 
 ### Funcionamento
